@@ -64,6 +64,6 @@ Looking to build your next product or scale your existing system?
 ## 📫 Connect
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/smtechsoftltd)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shazibahmedsmg](https://www.linkedin.com/company/smtechsoft/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/smtechsoft/)  
 
 📧 Email: smtechsoftltd@gmail.com
